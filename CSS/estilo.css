@@ -30,6 +30,7 @@ body {
     display: inline-block;
     padding: 15px;
     border-bottom: 2px solid;
+    letter-spacing: 2px;
 }
 
 .cabecalho nav ul {
@@ -83,6 +84,21 @@ article h2{
     margin-top: 0;
 }
 
-article a{
-    
+.botaozinho{
+    background-color: #cdc7c3;
+    display: block;
+    padding: 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-left: auto;
+    width: fit-content;
+}
+
+.rodape{
+    color: white;
+    background-color: #6b6c68;
+    text-align: center;
+    padding: 30px;
+    text-shadow: -2px 2px 2px black;
+    letter-spacing: 2px;
 }
